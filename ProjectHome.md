@@ -1,0 +1,1 @@
+It finds all the devices connected on the same wifi and connects with sending messages from both sides like a chat
